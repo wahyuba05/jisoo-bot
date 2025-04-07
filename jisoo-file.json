@@ -1,67 +1,107 @@
 [
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Walkin%20on%20Water.mp3",
-    "judul": "Walkin on water",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/3RACHA%20-%20Matryoshka.mp3",
-    "judul": "Matryoshka",
-    "artis": "3RACHA"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Back%20door%20by%20skz.mp3",
-    "judul": "Back Door",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Circus%20skz.mp3",
-    "judul": "Circus",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Domino%20by%20Stray%20Kids.mp3",
-    "judul": "Domino",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Feliz%20Navidad.mp3",
-    "judul": "Christmas EveL",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Giant%20Chorus%20.mp3",
-    "judul": "Giant",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/SKiz%20-%20District%2092.mp3",
-    "judul": "District 9",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/SKiz%20-%20Grrr.mp3",
-    "judul": "BEWARE",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/SKiz%20-%20YAYAYA.mp3",
-    "judul": "YAYAYA",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/STRAY%20KIDS%20-%20MY%20PACE.mp3",
-    "judul": "My Pace",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/STRAY%20KIDS%20-I%20AM%20YOU.mp3",
-    "judul": "I AM YOU",
-    "artis": "STRAY KIDS"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Side%20Effects%20.mp3",
-    "judul": "Side Effects",
-    "artis": "STRAY KIDS"
-  }
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/3RACHA%20-%20Matryoshka.mp3",
+        "judul": "Matryoshka",
+        "artis": "3RACHA"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Back%20door%20by%20skz.mp3",
+        "judul": "Back Door",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Circus%20skz.mp3",
+        "judul": "Circus",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Domino%20by%20Stray%20Kids.mp3",
+        "judul": "Domino",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Feliz%20Navidad.mp3",
+        "judul": "Feliz Navidad",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Freeze%20stray%20kids.mp3",
+        "judul": "Freeze",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Giant%20Chorus%20.mp3",
+        "judul": "Giant Chorus",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/SKiz%20-%20District%2092.mp3",
+        "judul": "District 9",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/SKiz%20-%20Grrr.mp3",
+        "judul": "BEWARE",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/SKiz%20-%20YAYAYA.mp3",
+        "judul": "YAYAYA",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/STRAY%20KIDS%20-%20MY%20PACE.mp3",
+        "judul": "My Pace",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/STRAY%20KIDS%20-I%20AM%20YOU.mp3",
+        "judul": "I Am You",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Side%20Effects%20.mp3",
+        "judul": "Side Effects",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Social%20Path-Stray%20Kids.mp3",
+        "judul": "Social Path",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Stray%20Kids%20-%203rd%20Eye.mp3",
+        "judul": "3rd Eye",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Stray%20kids%20-%20megaverse.mp3",
+        "judul": "Megaverse",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Stray%20kıds-cheese.mp3",
+        "judul": "Cheese",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Straykids%20chk%20chk%20boom.mp3",
+        "judul": "Chk Chk Boom",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Super%20Bowl.mp3",
+        "judul": "Super Bowl",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Victory%20Song%20.mp3",
+        "judul": "Victory Song",
+        "artis": "Stray Kids"
+    },
+    {
+        "lagu": "https://raw.githubusercontent.com/wahyuba05/jisoo-bot/tebaklaguskz/Walkin%20on%20Water.mp3",
+        "judul": "Walkin' on Water",
+        "artis": "Stray Kids"
+    }
 ]
